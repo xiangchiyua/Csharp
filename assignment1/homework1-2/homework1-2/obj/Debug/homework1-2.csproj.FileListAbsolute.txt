@@ -1,0 +1,10 @@
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-2\homework1-2\bin\Debug\homework1-2.exe.config
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-2\homework1-2\bin\Debug\homework1-2.exe
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-2\homework1-2\bin\Debug\homework1-2.pdb
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-2\homework1-2\obj\Debug\homework1-2.csproj.AssemblyReference.cache
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-2\homework1-2\obj\Debug\homework1_2.Form1.resources
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-2\homework1-2\obj\Debug\homework1_2.Properties.Resources.resources
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-2\homework1-2\obj\Debug\homework1-2.csproj.GenerateResource.cache
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-2\homework1-2\obj\Debug\homework1-2.csproj.CoreCompileInputs.cache
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-2\homework1-2\obj\Debug\homework1-2.exe
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-2\homework1-2\obj\Debug\homework1-2.pdb

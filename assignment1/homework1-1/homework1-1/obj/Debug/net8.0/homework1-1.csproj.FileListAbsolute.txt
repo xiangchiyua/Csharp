@@ -1,0 +1,14 @@
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\bin\Debug\net8.0\homework1-1.exe
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\bin\Debug\net8.0\homework1-1.deps.json
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\bin\Debug\net8.0\homework1-1.runtimeconfig.json
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\bin\Debug\net8.0\homework1-1.dll
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\bin\Debug\net8.0\homework1-1.pdb
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\obj\Debug\net8.0\homework1-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\obj\Debug\net8.0\homework1-1.AssemblyInfoInputs.cache
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\obj\Debug\net8.0\homework1-1.AssemblyInfo.cs
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\obj\Debug\net8.0\homework1-1.csproj.CoreCompileInputs.cache
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\obj\Debug\net8.0\homework1-1.dll
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\obj\Debug\net8.0\refint\homework1-1.dll
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\obj\Debug\net8.0\homework1-1.pdb
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\obj\Debug\net8.0\homework1-1.genruntimeconfig.cache
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework1-1\homework1-1\obj\Debug\net8.0\ref\homework1-1.dll
