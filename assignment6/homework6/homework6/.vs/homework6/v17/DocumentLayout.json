@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|c:\\users\\\u80E5\u7FD4\u4E91\\desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\c#\\homework6\\homework6\\homework6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|solutionrelative:homework6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|solutionrelative:homework6\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|solutionrelative:homework6\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|solutionrelative:homework6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|solutionrelative:homework6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|solutionrelative:homework6\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|solutionrelative:homework6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|solutionrelative:homework6\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|solutionrelative:homework6\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E2B799-B432-409E-AD8B-5172746F3C56}|homework6\\homework6.csproj|solutionrelative:homework6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Goods.cs",
+              "DocumentMoniker": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Goods.cs",
+              "RelativeDocumentMoniker": "homework6\\Goods.cs",
+              "ToolTip": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Goods.cs",
+              "RelativeToolTip": "homework6\\Goods.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAzwBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:24:49.855Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Form1.cs",
+              "RelativeDocumentMoniker": "homework6\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Form1.cs",
+              "RelativeToolTip": "homework6\\Form1.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwEQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:39:20.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Order.cs",
+              "RelativeDocumentMoniker": "homework6\\Order.cs",
+              "ToolTip": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Order.cs",
+              "RelativeToolTip": "homework6\\Order.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA3wDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:24:28.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "homework6\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\OrderDetail.cs",
+              "RelativeToolTip": "homework6\\OrderDetail.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:17:07.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Customer.cs",
+              "RelativeDocumentMoniker": "homework6\\Customer.cs",
+              "ToolTip": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Customer.cs",
+              "RelativeToolTip": "homework6\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:15:36.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\OrderService.cs",
+              "RelativeDocumentMoniker": "homework6\\OrderService.cs",
+              "ToolTip": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\OrderService.cs",
+              "RelativeToolTip": "homework6\\OrderService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAArwDQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:23:12.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Form1.cs",
+              "RelativeDocumentMoniker": "homework6\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "homework6\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:07:10.468Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Form2.cs",
+              "RelativeDocumentMoniker": "homework6\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Form2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "homework6\\Form2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:46:59.597Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Form2.cs",
+              "RelativeDocumentMoniker": "homework6\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Form2.cs",
+              "RelativeToolTip": "homework6\\Form2.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAqwD8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:59:36.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Program.cs",
+              "RelativeDocumentMoniker": "homework6\\Program.cs",
+              "ToolTip": "C:\\Users\\\u80E5\u7FD4\u4E91\\Desktop\\\u4F5C\u4E1A\u6587\u4EF6\u0026\u7B14\u8BB0\\C#\\homework6\\homework6\\homework6\\Program.cs",
+              "RelativeToolTip": "homework6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:07:50.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework6\homework6\homework6\bin\Debug\homework6.exe.config
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework6\homework6\homework6\bin\Debug\homework6.exe
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework6\homework6\homework6\bin\Debug\homework6.pdb
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework6\homework6\homework6\obj\Debug\homework6.csproj.AssemblyReference.cache
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework6\homework6\homework6\obj\Debug\homework6.OrderForm.resources
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework6\homework6\homework6\obj\Debug\homework6.Form2.resources
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework6\homework6\homework6\obj\Debug\homework6.Properties.Resources.resources
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework6\homework6\homework6\obj\Debug\homework6.csproj.GenerateResource.cache
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework6\homework6\homework6\obj\Debug\homework6.csproj.CoreCompileInputs.cache
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework6\homework6\homework6\obj\Debug\homework6.exe
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\homework6\homework6\homework6\obj\Debug\homework6.pdb
