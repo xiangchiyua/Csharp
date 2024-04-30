@@ -1,0 +1,14 @@
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\bin\Debug\net8.0\simplecrawler.exe
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\bin\Debug\net8.0\simplecrawler.deps.json
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\bin\Debug\net8.0\simplecrawler.runtimeconfig.json
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\bin\Debug\net8.0\simplecrawler.dll
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\bin\Debug\net8.0\simplecrawler.pdb
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\obj\Debug\net8.0\simplecrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\obj\Debug\net8.0\simplecrawler.AssemblyInfoInputs.cache
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\obj\Debug\net8.0\simplecrawler.AssemblyInfo.cs
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\obj\Debug\net8.0\simplecrawler.csproj.CoreCompileInputs.cache
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\obj\Debug\net8.0\simplecrawler.dll
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\obj\Debug\net8.0\refint\simplecrawler.dll
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\obj\Debug\net8.0\simplecrawler.pdb
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\obj\Debug\net8.0\simplecrawler.genruntimeconfig.cache
+C:\Users\胥翔云\Desktop\作业文件&笔记\C#\simplecrawler\simplecrawler\obj\Debug\net8.0\ref\simplecrawler.dll
